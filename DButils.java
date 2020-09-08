@@ -1,2 +1,2 @@
 hi guys
-This is java class
+This is java class updated.
